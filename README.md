@@ -2,8 +2,9 @@
 
 # Introduction
   * There are many way to detect and recognition traffic sign like :- <br>
+  
     - Haar Cascade. <br>
-    - HOG+SVM linear transform. <br>
+    - HOG + SVM linear transform. <br>
     - Machine Learning (eg. Tensorflow). <br>
     - Deep Learning (Yolo , Yolo2 , CNN , ) and other. <br>
     
