@@ -17,6 +17,9 @@
   
    * You can follow [this](https://github.com/Bassel-elazab/Make-Your-Own-Object-Detector) to understand well all steps
    
-   * Finally after you make your xml file you can use it in detection as i explain in my code which :-
-    - ""
+   * Finally after you make your xml file you can use it in detection as i explain in my code "detection.py"
+   
+ # For Contact :-
+ bassel.alazab@gmail.com
+ 
   
